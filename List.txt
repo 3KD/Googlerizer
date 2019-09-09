@@ -1,0 +1,20 @@
+Emacs Reference Card
+GNU Emacs manual
+GNU Emacs Pocket Reference
+Learning GNU Emacs
+Living in Emacs
+Sams Teach Yourself Emacs In 24 Hours
+Hacking Vim
+Learning the Vim Editor
+Advanced Bash-Scripting Guide
+A Practical Guide To Linux Commands, Editors, And Shell Programming
+Bash Cookbook
+Bash Quick Reference
+Classic Shell Scripting
+Learning The Bash Shell
+Linux Complete Command Reference
+Linux Shell Scripting Tutorial
+Linux Shell Scripting with Bash
+Mastering UNIX Shell Scripting
+Sams Teach Yourself Shell Programming in 24 Hours
+SHELL SCRIPTING IN LINUX/Unix Shell Programming
